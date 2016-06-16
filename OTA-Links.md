@@ -1,12 +1,5 @@
 #OTA-Links
 
-
-iPad3,4 (P101AP): http://appldnld.apple.com/WWDC_2016/iOS10Seed1/031-62917-20160613-D879BAB0-2D91-11E6-9EEA-80A2B96A614B/com_apple_MobileAsset_SoftwareUpdate/8ba856ebe005cbbdf25f37614ea730c695ef8c27.zip
-
-iPad3,5 (P102AP): http://appldnld.apple.com/WWDC_2016/iOS10Seed1/031-62912-20160613-D4D37284-2D91-11E6-BE47-4BA2B96A614B/com_apple_MobileAsset_SoftwareUpdate/a8779756e458dfb9eec2bc9d929b2ce3437740b7.zip
-
-iPad3,6 (P103AP): http://appldnld.apple.com/WWDC_2016/iOS10Seed1/031-62894-20160613-C49F9C8A-2D91-11E6-B7F8-A8A1B96A614B/com_apple_MobileAsset_SoftwareUpdate/f39b9b058f628bdbd6d62cdaf1981db93ba75ef7.zip
-
 iPad4,1 (J71AP): http://appldnld.apple.com/WWDC_2016/iOS10Seed1/031-62901-20160613-D33D63EE-2D91-11E6-8884-DBA1B96A614B/com_apple_MobileAsset_SoftwareUpdate/0e3ec757b94a9c87b2fd1fa7dce2863111302d41.zip
 
 iPad4,2 (J72AP): http://appldnld.apple.com/WWDC_2016/iOS10Seed1/031-62909-20160613-D49DC47C-2D91-11E6-A29C-47A2B96A614B/com_apple_MobileAsset_SoftwareUpdate/780f7572f050bdf4ce2dc5d97d90bf18035c22e9.zip
