@@ -6,8 +6,8 @@ These can also be found inside [OTA updates](https://github.com/iOS-10-Stuffs/De
 
 
 _____________________________________________
-APPLE PUBLIC SOURCE LICENSE
-Version 2.0 -  August 6, 2003
+[APPLE PUBLIC SOURCE LICENSE
+Version 2.0 -  August 6, 2003](http://opensource.apple.com//license/apsl/)
 
 Please read this License carefully before downloading this software.  By downloading or using this software, you are agreeing to be bound by the terms of this License.  If you do not or cannot agree to the terms of this License, please do not download or use the software.
 
