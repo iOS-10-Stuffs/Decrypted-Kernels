@@ -63,4 +63,4 @@ iPhone8,4 (N69uAP): http://appldnld.apple.com/WWDC_2016/iOS10Seed1/031-62879-201
 
 iPod7,1 (N102AP): http://appldnld.apple.com/WWDC_2016/iOS10Seed1/031-62891-20160613-30D6553E-2D91-11E6-B903-AF9EB96A614B/com_apple_MobileAsset_SoftwareUpdate/b7e9541c27b102a096de842ff6b67b13a460175b.zip
  
-courtesy of http://pastebin.com/FRMfanmT
+courtesy of @RowRocka - http://pastebin.com/FRMfanmT
