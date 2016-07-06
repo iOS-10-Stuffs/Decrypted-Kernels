@@ -2,7 +2,7 @@
 
 
 
-These can also be found inside [OTA updates](https://github.com/iOS-10-Stuffs/Decrypted-Kernels/blob/master/OTA-Links.md) and [.ipsw restore images](https://github.com/iOS-10-Stuffs/Decrypted-Kernels/blob/master/IPSW-Links.md)
+These can also be found inside OTA updates and .ipsw restore images. A list of both can be found in each release folder.
 
 
 _____________________________________________
